@@ -1,0 +1,7 @@
+# Archivos con fin de línea LF
+[*]
+end_of_line = lf
+
+# Excepto para los archivos Markdown (si lo deseas)
+[*.md]
+end_of_line = native
